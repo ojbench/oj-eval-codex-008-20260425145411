@@ -1,0 +1,5 @@
+# echo until EOF; first check EOF, then output
+[0]<1
+A<I
+Z<[A]
+O<A
